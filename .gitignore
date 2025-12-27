@@ -1,0 +1,6 @@
+# Ignore everything except the codex
+*
+!.gitignore
+!symbol_codex.json
+!README.md
+
